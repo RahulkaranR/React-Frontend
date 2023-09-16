@@ -1,0 +1,32 @@
+{
+  "posts": [
+    {
+      "id": 2,
+      "titlecolor": "red",
+      "title": "My 2nd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 3,
+      "titlecolor": "orange",
+      "title": "My 3rd Post",
+      "datetime": "July 01, 2021 11:17:36 AM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 4,
+      "titlecolor": "red",
+      "title": "My Fourth Post",
+      "datetime": "June 02, 2023 1:08:49 PM",
+      "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quis consequatur expedita, assumenda similique non optio! Modi nesciunt excepturi corrupti atque blanditiis quo nobis, non optio quae possimus illum exercitationem ipsa!"
+    },
+    {
+      "id": 5,
+      "titlecolor": "orange",
+      "title": "dsf",
+      "datetime": "June 02, 2023 1:09:00 PM",
+      "body": "asdf"
+    }
+  ]
+}
